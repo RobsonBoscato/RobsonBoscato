@@ -3,9 +3,9 @@
 <h3 align="center">A passionate FullStack developer from Brazil, Jesus follower and an always learning person.</h3>
 
 
-- 🔭 I’m currently working on **FrontEnd projects for a trading company, and a backend project to a finantial company**
+- 🔭 I’m currently working on **FrontEnd project to a finantial company**
 
-- 🌱 I’m currently learning **JS, React, Node**
+- 🌱 I’m currently learning **JS, React, Node, TypeScript**
 
 - 📫 How to reach me **rbsn.boscato@gmail.com**
 
