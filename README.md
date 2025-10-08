@@ -3,12 +3,12 @@
 <h3 align="center">A passionate FullStack developer from Brazil, Jesus follower and an always learning person.</h3>
 
 
-- 🔭 I’m currently working on **FrontEnd project to a finantial company**
+- 🔭 I’m currently working on **FullStack positionon a Fintech company**
 
-- 🌱 I’m currently learning **JS, React, Node, TypeScript**
+- 🌱 I’m currently learning **JS, React, Node, TypeScript, Laravel**
 
 - 📫 How to reach me **rbsn.boscato@gmail.com**
-
+Stack
 - ⚡ Fun fact **"You know what they say. Fool me once, strike one, but fool me twice...strike three." - Michael Scott**
 
 <h3 align="left">Connect with me:</h3>
