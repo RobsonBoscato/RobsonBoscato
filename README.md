@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **JS, React, Node, TypeScript, Laravel**
 
 - 📫 How to reach me **rbsn.boscato@gmail.com**
-Stack
+
 - ⚡ Fun fact **"You know what they say. Fool me once, strike one, but fool me twice...strike three." - Michael Scott**
 
 <h3 align="left">Connect with me:</h3>
