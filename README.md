@@ -1,6 +1,6 @@
 <h1 align="center">I'm Robson A. Boscato</h1>
 
-<h3 align="center">A passionate FullStack developer from Brazil, Jesus follower and an always learning person.</h3>
+<h3 align="center">FullStack developer from Brazil, Jesus follower and an always learning person.</h3>
 
 
 - 🔭 I’m currently working on **FullStack position on a Fintech company**
